@@ -61,4 +61,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 📜 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+---
+
+## 📄 TechneoUSDT White Paper
+
+Read the full white paper here:  
+[TechneoUSDT_Whitepaper_v1.0_Aug2025.pdf](./TechneoUSDT_Whitepaper_v1.0_Aug2025.pdf)
+
 
