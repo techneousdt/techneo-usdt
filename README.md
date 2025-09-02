@@ -52,7 +52,9 @@
 
 - `tron-usdt/TechneoUSDT.sol` – Smart contract source  
 - `LICENSE` – MIT license for open-source use  
-- `README.md` – Project overview and roadmap  
+- `README.md` – Project overview and roadmap
+- `TechneoUSDT_Whitepaper_v1.0_Aug2025.pdf.pdf` - Whtepaper for all users for every clearity
+- `techneousdt-logo.png`-For unique indification 
 
 ---
 
