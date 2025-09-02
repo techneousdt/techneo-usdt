@@ -66,7 +66,7 @@ This project is licensed under the MIT License — see the [LICENSE](./LICENSE) 
 ## 📄 TechneoUSDT White Paper
 
 Read the full white paper here:  
-[Whitepaper_v0_Aug0923.pdf](https://github.com/techneusd/TechneUSD/blob/main/Whitepaper_v0_Aug0923.pdf)
+[Whitepaper_v0_Aug0923.pdf](https://github.com/techneousdt/Whitepaper_v0_Aug0923.pdf)
 
 
 
