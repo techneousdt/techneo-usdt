@@ -8,7 +8,7 @@
 
 - 🌐 [TRONSCAN Token Page](https://tronscan.org/#/token20/TBm9y34PWdacMNvgzqFoevBpScJ9pSp8nc)  
 - 📜 [Smart Contract Source](./tron-usdt/TechneoUSDT.sol)  
-- 📣 Contact: yourname@email.com *(replace with your actual contact)*
+- 📣 Contact: info@techneousdt.com
 
 ---
 
