@@ -23,10 +23,10 @@
 | **Name**         | TechneoUSDT                |
 | **Symbol**       | USDT                       |
 | **Decimals**     | 6                          |
+| **Token Adress**     | TBm9y34PWdacMNvgzqFoevBpScJ9pSp8nc                      |
 | **Total Supply** | 1,000,000,000,000 USDT     |
 | **Standard**     | TRC-20                     |
 | **Chain**        | TRON       
-| **Token Adress**         TBm9y34PWdacMNvgzqFoevBpScJ9pSp8nc
 | **Owner**        | TFrEHsnyTz6tJrQfDpFdiWNwa8hR2SfqQM |
 
 ---
