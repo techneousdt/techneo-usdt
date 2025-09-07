@@ -26,7 +26,7 @@
 | **Total Supply** | 1,000,000,000,000 USDT     |
 | **Standard**     | TRC-20                     |
 | **Chain**        | TRON                       |
-| **Owner**        | `msg.sender` at deployment |
+| **Owner**        | TFrEHsnyTz6tJrQfDpFdiWNwa8hR2SfqQM |
 
 ---
 
