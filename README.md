@@ -41,12 +41,12 @@
 |------------------|----------------------------------------|
 | **Name**         | TechneoUSDT                            |
 | **Symbol**       | USDT                                   |
-| **Decimals**     | 6                                      |
+| **Decimals**     | 18                                      |
 | **Total Supply** | 1,000,000,000,000 USDT                 |
 | **Standard**     | BEP-20                                 |
 | **Chain**        | BNB Smart Chain                        |
 | **Token Address**| 0xb4EE8Df4C2EA3c262B13F8c44F6300338B8579e6 |
-| **Owner Address**| 0xYourBNBOwnerAddressHere              |
+| **Owner Address**| 0x1Bd4C7AB398190813772D7504926672227ab0fdC            |
 
 ---
 
